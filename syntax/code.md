@@ -1,3 +1,20 @@
+Exemples pour la quete Markdown : 
+
+# Ceci est un header  h1
+## Ceci est un header h2 
+
+_Ceci est une phrase en italique_
+**Ceci est une phrase en gras** 
+
+Ceci est un liste : 
+1. Item 1
+1. Item 2
+1. Item 3
+
+Ceci est une citation : 
+> Je m'entraine au markdown. 
+
+
 # Les blocs de code
 
 Les blocs de codes pré-formatés sont utlisés pour écrire sur la programmation ou surligner un code source. Plus que de simple pragraphe, les lignes de code d'un bloc de code sont litterallement interprétées.
